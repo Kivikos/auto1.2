@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/as166rmwuq34lb48?svg=true)](https://ci.appveyor.com/project/Kivikos/auto1-2)
